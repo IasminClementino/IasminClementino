@@ -21,15 +21,15 @@
 
 ## :toolbox: Tools & Tecnologies:
 
-[![My Tecnologies](https://skillicons.dev/icons?i=vscode,idea,figma,github,git&theme=dark&perline=5)]()
+![My Tecnologies](https://skill-icons-v2.vercel.app/api/icons?i=vscode,idea,figma,github,git&theme=dark&perline=5)
 
-[![My Tecnologies](https://skillicons.dev/icons?i=java,python,html,css,js&theme=dark&perline=5)]()
+![My Tecnologies](https://skill-icons-v2.vercel.app/api/icons?i=java,python,html,css,javascript&theme=dark)
 
 </br>
 
 ## :desktop_computer: Operational Systems:
 
-[![My Operational Systems](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
+![My Operational Systems](https://skill-icons-v2.vercel.app/api/icons?i=ubuntu,windows&theme=dark)
 
 </br>
 
