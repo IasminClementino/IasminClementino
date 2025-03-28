@@ -35,4 +35,4 @@
 
 ## :fire: My Stats :
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=iasminclementino&hide_border=true&theme=transparent" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iasminclementino&show_icons=true&theme=transparent&locale=en&layout=compact" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iasminclementino&show_icons=true&theme=transparent&locale=en&hide_border=true" /></p>
