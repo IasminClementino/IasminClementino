@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/IasminClementino"><img src="https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/maria-iasmin/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maria-iasmin/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=lintcode&logoColor=white" /></a>
 </p>
 
 ---
